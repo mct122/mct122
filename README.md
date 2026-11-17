@@ -21,7 +21,9 @@ From December 2026, I'll be studying at CICCC in Vancouver, Canada.
 
 ## 作ったもの / Projects
 
-### [Clarity Code AI](https://github.com/mct122/clarity-code-ai) — AIエージェントで動かす仮想の会社 / A virtual company run by AI agents
+> ソースコードは公開準備中です。 / Source code coming soon.
+
+### Clarity Code AI — AIエージェントで動かす仮想の会社 / A virtual company run by AI agents
 
 CEO（自分）が指示を出すと、COO・CTO・CMO・CFO役のAIエージェントが並列で議論し、方針をまとめる「取締役会議」システムです。秘書・PM・リサーチ・開発・マーケ・経理の部署ごとにClaude Code用のルールとスキルを用意し、日々の実務をAI社員に任せられるようにしています。
 
@@ -29,7 +31,7 @@ A "board meeting" system: when I (the CEO) give an instruction, AI agents playin
 
 `Python` `Claude API` `Multi-agent` `Claude Code` `TypeScript`
 
-### [見積書マネージャー / Estimate Manager](https://github.com/mct122/estimate-manager) — 見積書の作成から印刷まで / From creating estimates to printing them
+### 見積書マネージャー / Estimate Manager — 見積書の作成から印刷まで / From creating estimates to printing them
 
 案件・顧客・明細・受注状況をひとつの画面の流れで管理し、A4の見積書として印刷できるアプリです。SQLiteのトランザクションで保存途中のデータ不整合を防ぎ、APIテスト81件と画面検証15項目で動作を確認しています。
 
@@ -37,7 +39,7 @@ An app that manages projects, clients, line items, and order status in one flow,
 
 `TypeScript` `Next.js (App Router)` `React` `SQLite`
 
-### [ITキャリアマッチング / IT Career Matching](https://github.com/mct122/matching-app) — IT企業の社員と求職者をつなぐ / Connecting IT employees with job seekers
+### ITキャリアマッチング / IT Career Matching — IT企業の社員と求職者をつなぐ / Connecting IT employees with job seekers
 
 IT企業で働く社員（メンター）と、IT業界を目指す人（メンティー）が直接つながり、カジュアル面談やキャリア相談ができるサービスのMVPです。職種・技術スタックでの検索、面談リクエスト、メッセージに加え、Stripeによるサブスク課金まで実装し、Railwayで動かしています。
 
