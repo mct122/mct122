@@ -33,15 +33,15 @@ From December 2026, I'll be studying at CICCC in Vancouver, Canada.
 
 ## 今やっていること / What I Do Now
 
-- 生成AI（Claude / AWS Bedrock）を使った約10件のプロジェクトを横断して、品質・進捗・採算を管理
+- 生成AI（Claude / AWS Bedrock）を使った約10件のプロジェクトを横断して、品質・進捗・採算を管理<br>
   Managing quality, schedule, and profitability across about 10 generative AI projects (Claude / AWS Bedrock)
-- Python / React / Node.js のコードレビューで、AIが書いたコードの品質を担保
+- Python / React / Node.js のコードレビューで、AIが書いたコードの品質を担保<br>
   Reviewing Python / React / Node.js code to keep AI-generated code reliable
-- エンジニアを「技術×ビジネス×コンサル」がわかるFDE（Forward Deployed Engineer）に育てる評価制度（10指標×10段階）と1on1制度を、ゼロから設計・導入
+- エンジニアを「技術×ビジネス×コンサル」がわかるFDE（Forward Deployed Engineer）に育てる評価制度（10指標×10段階）と1on1制度を、ゼロから設計・導入<br>
   Designed and introduced a 10-metric, 10-level evaluation system and 1-on-1s to grow engineers into Forward Deployed Engineers
-- 商談・要件定義から実装・リリースまで、自分も入るプレイングマネージャー
+- 商談・要件定義から実装・リリースまで、自分も入るプレイングマネージャー<br>
   A player-manager who joins client meetings, writes requirements, and builds alongside the team
-- 担当したプロダクトの例：AIマッチングアプリ、既存ツールへのAIチャットボット導入、提案書作成の自動化ツール、AI分析機能付きアプリ
+- 担当したプロダクトの例：AIマッチングアプリ、既存ツールへのAIチャットボット導入、提案書作成の自動化ツール、AI分析機能付きアプリ<br>
   Examples: an AI matching app, an AI chatbot added to an existing tool, a proposal-writing automation tool, and an app with AI-powered analysis
 
 ---
