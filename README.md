@@ -7,23 +7,24 @@
 
 ## 数字で見る経歴 / At a Glance
 
-| | 日本語 | English |
-|---|---|---|
-| **12名** | 生成AIスタートアップで統括している開発組織（エンジニア10名・営業2名） | Dev team I lead at a generative AI startup (10 engineers, 2 sales) |
-| **約10件** | 並行して管理している、生成AIを使った受託プロジェクト | Generative AI client projects I manage in parallel |
-| **20名** | エンジニアになる前に統括したチーム（予算・損益・KPIを管理） | Team I led before becoming an engineer, owning budget, P&L, and KPIs |
-| **3年** | 金融・公共・流通の業務システム開発（Java / Spring / React） | Years building business systems for finance, government, and distribution |
+| 数字 / Number | 内容 / What |
+|---|---|
+| **12名 × 約10件**<br>12 people × ~10 projects | 生成AIスタートアップで、12名（エンジニア10名・営業2名）を統括し、1件あたり約18万CAD（約2,000万円）の生成AI案件を約10件並行で管理<br>Lead a 12-person team (10 engineers, 2 sales) delivering ~10 concurrent generative AI projects, each worth about CAD 180K |
+| **年間 260万CAD+**<br>CAD 2.6M+ / year | 20名の営業・運用組織をゼロから立ち上げ、損益とKPIを持って年間売上260万CAD（約2.9億円）超<br>Built a 20-person sales and operations division from scratch, owning P&L and KPIs, with over CAD 2.6M in annual revenue |
+| **月 6万CAD**<br>CAD 60K / month | 営業時代の個人売上の最高記録（約670万円／月）。支援したお客さんの月商を最大40%伸ばす<br>Record individual sales as a consultant; grew clients' monthly revenue by up to 40% |
+| **作業時間 −50%**<br>−50% task time | Javaで作った社内ツールで、企業IDごとのサービス一覧の抽出作業を約半分に<br>Cut task time by about 50% with a reusable Java tool that extracts service lists by company ID |
+| **約1,800万CAD / 約450万CAD**<br>CAD 18M / CAD 4.5M | 官公庁のWebシステム（約20億円）と、損害保険のポータル刷新（約5億円）の開発に参加<br>Built features for a government web platform and an insurance portal renewal of these sizes |
 
 ---
 
 ## 自己紹介 / About
 
-営業とPMを経験したあと、エンジニアに転向しました。
+営業からキャリアを始め、20名規模のチームを率いる営業統括・PMを経験したあと、エンジニアに転向しました。
 金融・公共・流通の業務システムを3年開発し、現在は生成AIスタートアップで、開発組織の現場統括PMとフルスタック開発を担当しています。
 「お客さんが何に困っているか」を聞く力と、自分で設計・実装・レビューできる力の両方を使って、開発チームとクライアントの間をつないでいます。
 2026年12月からは、カナダ・バンクーバーのCICCCに留学します。
 
-I started in sales and project management, then moved into software engineering.
+I started my career in sales, led a 20-person team as head of sales and PM, then moved into software engineering.
 After three years of building business systems for finance, government, and distribution, I now lead a dev team as a hands-on PM and full-stack engineer at a generative AI startup.
 I connect clients and engineers by combining what I learned in sales—finding out what people really need—with the ability to design, build, and review the system myself.
 From December 2026, I'll be studying at CICCC in Vancouver, Canada.
@@ -49,10 +50,12 @@ From December 2026, I'll be studying at CICCC in Vancouver, Canada.
 
 | 期間 / Period | 役割 / Role |
 |---|---|
-| 2026 – | 生成AIスタートアップ：開発組織の現場統括PM・フルスタックエンジニア<br>Generative AI startup: Hands-on PM and full-stack engineer |
-| 2023 – 2026 | SE：損害保険のWebシステム、官公庁向けシステム、食品流通の共通プラットフォーム（Java / Spring / React）<br>Software engineer: Insurance web system, government system, food distribution platform |
-| 2020 – 2022 | PM / PL：BtoB・BtoC事業で20名規模のチームを統括<br>PM / Team lead: Led a 20-person team across B2B and B2C businesses |
-| 2019 – 2020 | 営業・導入：LINE APIを使ったITソリューションの導入支援、コンサルティング営業<br>Sales and onboarding: IT solution rollout with the LINE API, consultative sales |
+| 2026 – | 生成AIスタートアップ：12名の開発組織を統括するPM・フルスタックエンジニア<br>Generative AI startup: Operations manager and full-stack engineer leading a 12-person team |
+| 2025 – 2026 | フルスタックエンジニア：損害保険ポータルの刷新で、収納機能を設計から結合テストまで担当（Java / Spring / React）<br>Full-stack engineer: Designed and built the payment collection feature for an insurance portal renewal |
+| 2024 – 2025 | フルスタックエンジニア：行政手続きをオンライン化する官公庁のWebシステム（Java / Spring / React / AWS）<br>Full-stack engineer: Government web platform that moves administrative procedures online |
+| 2023 – 2024 | エンジニア：食品流通の共通EDIプラットフォームを要件定義から運用まで担当（Java / Shell / PostgreSQL）<br>Engineer: Shared EDI platform for wholesale and retail, from requirements to operations |
+| 2020 – 2022 | 営業統括・PM：20名の営業・運用組織をゼロから立ち上げ、年間売上260万CAD超<br>Head of sales and PM: Built a 20-person division with over CAD 2.6M in annual revenue |
+| 2019 – 2020 | ITコンサルタント：LINE APIを使ったCRM導入とコンサルティング営業。個人売上 月6万CADの最高記録<br>IT consultant: CRM rollouts with the LINE API and consultative sales; record of CAD 60K per month |
 
 ---
 
